@@ -114,11 +114,8 @@ This tool is intended for educational purposes only. Use it responsibly and only
 ![Secure Message Tool](https://your-image-url.com/banner.png)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/secure-message-tool)
-![GitHub](https://img.shields.io/github/license/yourusername/secure-message-tool)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/secure-message-tool)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/secure-message-tool)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/secure-message-tool)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/secure-message-tool)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
 
 
