@@ -1,7 +1,7 @@
 
 # SafeTxt
 
-![SafeTxt](banner.png)
+![SafeTxt](img/banner.png)
 
 ## 🚀 Introduction
 
